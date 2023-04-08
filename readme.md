@@ -1,3 +1,3 @@
 Hello GitHub world!
 
-> author: 안준우
+> author: 안준우(AceAhn)
